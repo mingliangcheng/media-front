@@ -3,12 +3,12 @@
     <div class="login-box">
       <SwitchDark class="dark" />
       <div class="login-left">
-        <img class="login-left-img" src="@/assets/images/login_left.png" alt="login" />
+        <!-- <img class="login-left-img" src="@/assets/images/login_left.png" alt="login" /> -->
       </div>
       <div class="login-form">
         <div class="login-logo">
           <img class="login-icon" src="@/assets/images/logo.svg" alt="" />
-          <h2 class="logo-text">Geeker-Admin</h2>
+          <h2 class="logo-text">Media-Front</h2>
         </div>
         <LoginForm />
       </div>

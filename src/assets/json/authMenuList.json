@@ -43,6 +43,21 @@
             "isKeepAlive": true
           },
           "children": []
+        },
+        {
+          "path": "/media/signer",
+          "name": "singer",
+          "component": "/media/signer/index",
+          "meta": {
+            "icon": "Menu",
+            "title": "歌手",
+            "isLink": "",
+            "isHide": false,
+            "isFull": false,
+            "isAffix": false,
+            "isKeepAlive": true
+          },
+          "children": []
         }
       ]
     },

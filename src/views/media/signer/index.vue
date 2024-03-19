@@ -70,11 +70,6 @@ const getTableList = (params: any) => {
 const columns = reactive<ColumnProps<User.ResUserList>[]>([
   { type: "selection", fixed: "left", width: 70 },
   {
-    prop: "username",
-    label: "歌曲名",
-    search: { el: "input", tooltip: "我是搜索提示" }
-  },
-  {
     prop: "歌手",
     label: "歌手",
     // 字典数据（本地数据）
